@@ -4,8 +4,8 @@
 # @Author  : Binquan Guo (Allen Guo)
 # @Email   : 13468897661@163.com
 # @Profile : https://wilixx.github.io
-# @File    : smart_grid_model_ICCTS_method.py
-# @Function: To formulate the Mixed Integer Problems our paper entitled below:
+# @File    : integrated_computing_and_communication_task_scheduling.py
+# @Function: To formulate the Mixed Integer Problem of our paper entitled:
 # "Data Volume-aware Computation Task Scheduling for Smart Grid Data Analytic Applications".
 
 """ Citation:

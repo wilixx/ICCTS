@@ -1,9 +1,21 @@
 # ICCTS
-The source code for the paper entitled "Data Volume-aware Computation Task Scheduling for Smart Grid Data Analytic Applications". A preprint version of this paper will be available soon. Feel free to reach us if you may have any questions. 
+The source code for the paper entitled "Data Volume-aware Computation Task Scheduling for Smart Grid Data Analytic Applications", accepted to apear in IEEE ICC 2023. A preprint version at [https://arxiv.org/abs/2301.11831](https://arxiv.org/abs/2301.11831). Feel free to reach us if you may have any questions. 
 
 
 ### Citation:
-The same reformulation techniques can be found in our previous paper, which is now available at [https://ieeexplore.ieee.org/document/10001450/](https://ieeexplore.ieee.org/document/10001450/)
+
+```
+@misc{https://doi.org/10.48550/arxiv.2301.11831,
+  doi = {10.48550/ARXIV.2301.11831},
+  url = {https://arxiv.org/abs/2301.11831},
+  author = {Guo, Binquan and Li, Hongyan and Yan, Ye and Zhang, Zhou and Wang, Peng},
+  title = {Data Volume-aware Computation Task Scheduling for Smart Grid Data Analytic Applications},
+  publisher = {arXiv},
+  year = {2023}
+}
+```
+
+Another similar reformulation techniques can be found in our previous paper, which is now available at [https://ieeexplore.ieee.org/document/10001450/](https://ieeexplore.ieee.org/document/10001450/)
 
  ```
 @inproceedings{guo2022optimal,
